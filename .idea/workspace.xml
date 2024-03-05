@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c254c566-8b20-4e64-a79d-ae7a29f956c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/ConditionChoose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/ConditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/OperatorExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/VariableExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/VariableExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/ArrayExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/ClassExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/DoubleLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/IncDecOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/LoopExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/ObjectAndClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -45,12 +44,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.ArrayExam.executor": "Run",
     "Application.ChangeExam1.executor": "Run",
+    "Application.ClassExam.executor": "Run",
     "Application.Condition.executor": "Debug",
     "Application.ConditionChoose.executor": "Run",
-    "Application.ConditionTest.executor": "Debug",
+    "Application.ConditionTest.executor": "Run",
+    "Application.DoubleLoop.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.LoopExam.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ObjectAndClass (1).executor": "Run",
+    "Application.ObjectAndClass (2).executor": "Run",
+    "Application.ObjectAndClass (3).executor": "Run",
+    "Application.ObjectAndClass.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.OperatorExam1.executor": "Run",
     "Application.Print.executor": "Run",
@@ -67,13 +76,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConditionTest">
-    <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Condition" />
+  <component name="RunManager" selected="Application.LoopExam">
+    <configuration name="ClassExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.ClassExam" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionChoose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.ConditionChoose" />
+    <configuration name="LoopExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.LoopExam" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.ConditionTest" />
+    <configuration name="ObjectAndClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.LogicalOperator" />
+    <configuration name="ObjectAndClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorExam1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.OperatorExam1" />
+    <configuration name="ObjectAndClass (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConditionTest" />
-        <item itemvalue="Application.ConditionChoose" />
-        <item itemvalue="Application.Condition" />
-        <item itemvalue="Application.LogicalOperator" />
-        <item itemvalue="Application.OperatorExam1" />
+        <item itemvalue="Application.LoopExam" />
+        <item itemvalue="Application.ClassExam" />
+        <item itemvalue="Application.ObjectAndClass (3)" />
+        <item itemvalue="Application.ObjectAndClass (2)" />
+        <item itemvalue="Application.ObjectAndClass (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,19 +174,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/Print.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/ConditionTest.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/ConditionTest.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/day1/LogicalOperator.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
