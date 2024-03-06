@@ -13,7 +13,22 @@
       <change afterPath="$PROJECT_DIR$/src/day2/Loop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day2/LoopExam.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day2/ObjectAndClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/MethodExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/ParameterExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/ReturnExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/ScopeExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dday3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dday3/exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day1/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/LogicalOperator.java" afterDir="false" />
@@ -52,20 +67,31 @@
     "Application.ConditionChoose.executor": "Run",
     "Application.ConditionTest.executor": "Run",
     "Application.DoubleLoop.executor": "Run",
+    "Application.LocalVariable.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Loop.executor": "Run",
-    "Application.LoopExam.executor": "Run",
+    "Application.LoopExam.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.Method.executor": "Run",
+    "Application.MethodExam.executor": "Run",
     "Application.ObjectAndClass (1).executor": "Run",
     "Application.ObjectAndClass (2).executor": "Run",
     "Application.ObjectAndClass (3).executor": "Run",
     "Application.ObjectAndClass.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.OperatorExam1.executor": "Run",
+    "Application.Parameter.executor": "Run",
+    "Application.ParameterExam.executor": "Run",
     "Application.Print.executor": "Run",
+    "Application.Reference.executor": "Debug",
+    "Application.Return.executor": "Run",
+    "Application.ReturnExam.executor": "Run",
+    "Application.Scope.executor": "Run",
+    "Application.ScopeExam.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.VariableExam1.executor": "Run",
     "Application.VariableExam2.executor": "Run",
+    "Application.sibal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -73,16 +99,21 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/admin/Desktop/home-work/java-basic",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/exam1/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LoopExam">
-    <configuration name="ClassExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.ClassExam" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exam" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScopeExam">
+    <configuration name="LocalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.LocalVariable" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.LoopExam" />
+    <configuration name="MethodExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.MethodExam" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAndClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
+    <configuration name="ReturnExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.ReturnExam" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAndClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
+    <configuration name="ScopeExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.ScopeExam" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectAndClass (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.ObjectAndClass" />
+    <configuration name="sibal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.sibal" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopExam" />
-        <item itemvalue="Application.ClassExam" />
-        <item itemvalue="Application.ObjectAndClass (3)" />
-        <item itemvalue="Application.ObjectAndClass (2)" />
-        <item itemvalue="Application.ObjectAndClass (1)" />
+        <item itemvalue="Application.ScopeExam" />
+        <item itemvalue="Application.sibal" />
+        <item itemvalue="Application.LocalVariable" />
+        <item itemvalue="Application.MethodExam" />
+        <item itemvalue="Application.ReturnExam" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +208,11 @@
           <url>file://$PROJECT_DIR$/src/day1/LogicalOperator.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/LoopExam.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
