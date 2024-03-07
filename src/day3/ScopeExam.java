@@ -5,15 +5,15 @@ public class ScopeExam {
         // 문제 : 자동차가 3번 달리게 해주세요.
         // 출력 : 자동차가 달립니다.
         // v1. 1개의 자동차가 3번 달리게 해주세요.
-        dday3.Car carV1 = new dday3.Car();
+        practice.Car carV1 = new practice.Car();
         for (int i = 0; i < 3; i++) {
             carV1.run();
         }
 
         // v2. 3개의 자동차가 1번씩 달리게 해주세요.
-        dday3.Car carV2_1 = new dday3.Car();
-        dday3.Car carV2_2 = new dday3.Car();
-        dday3.Car carV2_3 = new dday3.Car();
+        practice.Car carV2_1 = new practice.Car();
+        practice.Car carV2_2 = new practice.Car();
+        practice.Car carV2_3 = new practice.Car();
 
         carV2_1.run();
         carV2_2.run();

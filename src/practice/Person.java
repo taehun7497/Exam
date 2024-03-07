@@ -1,4 +1,4 @@
-package dday3;
+package practice;
 
 public class Person {
     int age;   // 나이 속성을 age로 변경

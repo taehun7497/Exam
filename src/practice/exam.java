@@ -1,4 +1,4 @@
-package dday3;
+package practice;
 
 public class exam {
     public static void main(String[] args) {
