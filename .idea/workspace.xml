@@ -32,12 +32,24 @@
       <change afterPath="$PROJECT_DIR$/src/day4/CastingExam.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day4/Composition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day4/WarriorSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/coment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day4/inheritance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day4/inheritanceExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/ConstructorChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/ConstructorExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/PersonExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Rubberduck2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/SuperExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/tv1/Tv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/tv2/Tv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac/rubberduckpractice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practice/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practice/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/coment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practice/exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/goosegooseduck.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practice/p1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -57,6 +69,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -80,7 +95,17 @@
     "Application.Condition.executor": "Debug",
     "Application.ConditionChoose.executor": "Run",
     "Application.ConditionTest.executor": "Run",
+    "Application.Constructor (1).executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.ConstructorChain (1).executor": "Run",
+    "Application.ConstructorChain.executor": "Run",
+    "Application.ConstructorExam (1).executor": "Run",
+    "Application.ConstructorExam (2).executor": "Run",
+    "Application.ConstructorExam (3).executor": "Run",
+    "Application.ConstructorExam (4).executor": "Run",
+    "Application.ConstructorExam.executor": "Run",
     "Application.DoubleLoop.executor": "Run",
+    "Application.Format.executor": "Run",
     "Application.LocalVariable.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Loop.executor": "Run",
@@ -96,17 +121,32 @@
     "Application.OperatorExam1.executor": "Run",
     "Application.Parameter.executor": "Run",
     "Application.ParameterExam.executor": "Run",
+    "Application.PersonExam (1).executor": "Run",
+    "Application.PersonExam.executor": "Run",
     "Application.Print.executor": "Run",
     "Application.Reference.executor": "Debug",
     "Application.Return.executor": "Run",
     "Application.ReturnExam.executor": "Run",
+    "Application.Rubberduck2 (1).executor": "Run",
+    "Application.Rubberduck2 (2).executor": "Run",
+    "Application.Rubberduck2 (3).executor": "Run",
+    "Application.Rubberduck2.executor": "Run",
     "Application.Scope.executor": "Run",
     "Application.ScopeExam.executor": "Run",
+    "Application.TVSimulation.executor": "Run",
+    "Application.Tv (1).executor": "Run",
+    "Application.Tv.executor": "Run",
+    "Application.Tv2.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.VariableExam1.executor": "Run",
     "Application.VariableExam2.executor": "Run",
     "Application.WarriorSimulation (1).executor": "Run",
     "Application.WarriorSimulation.executor": "Run",
+    "Application.day5.tv2.Tv (1).executor": "Run",
+    "Application.day5.tv2.Tv (2).executor": "Run",
+    "Application.day5.tv2.Tv (3).executor": "Run",
+    "Application.day5.tv2.Tv.executor": "Run",
+    "Application.goosegooseduck.executor": "Run",
     "Application.inheritance.executor": "Run",
     "Application.inheritanceExam.executor": "Run",
     "Application.p1 (1).executor": "Run",
@@ -118,26 +158,53 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Desktop/home-work/java-basic/src/day4",
+    "last_opened_file_path": "C:/Users/admin/Desktop/home-work/java-basic/src/day5/tv2",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/exam1/src/Main.java",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\home-work\java-basic\src\day5\tv2" />
       <recent name="C:\Users\admin\Desktop\home-work\java-basic\src\day4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.p1 (2)">
-    <configuration name="WarriorSimulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.WarriorSimulation" />
+  <component name="RunManager" selected="Application.goosegooseduck (1)">
+    <configuration name="ConstructorChain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.ConstructorChain" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rubberduck2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Rubberduck2" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rubberduck2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Rubberduck2" />
+      <module name="exam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,7 +217,7 @@
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.p1" />
+    <configuration name="goosegooseduck (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.goosegooseduck" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
@@ -171,21 +238,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.p1" />
-      <module name="exam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.p1" />
+    <configuration name="goosegooseduck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.goosegooseduck" />
       <module name="exam1" />
       <extension name="coverage">
         <pattern>
@@ -199,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p1 (2)" />
-        <item itemvalue="Application.p1 (1)" />
-        <item itemvalue="Application.WarriorSimulation (1)" />
-        <item itemvalue="Application.p1" />
-        <item itemvalue="Application.WarriorSimulation" />
+        <item itemvalue="Application.goosegooseduck (1)" />
+        <item itemvalue="Application.goosegooseduck" />
+        <item itemvalue="Application.Rubberduck2 (3)" />
+        <item itemvalue="Application.ConstructorChain (1)" />
+        <item itemvalue="Application.Rubberduck2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -228,11 +282,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/LogicalOperator.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day2/LoopExam.java</url>
           <line>134</line>
