@@ -1,4 +1,4 @@
-package prac;
+package practice;
 
 public class rubberduckpractice {
     public static void main(String[] args) {
@@ -27,11 +27,9 @@ public class rubberduckpractice {
         // 출력 : 오리가 둥둥 떠다닙니다.
     }
 }
-
 abstract class 날개아이템 {
     abstract void 사용();
 }
-
 class 날개 extends 날개아이템 {
     void 사용() {
         System.out.println("오리가 날개로 날아갑니다.");
@@ -66,7 +64,6 @@ class 고무발 extends 발아이템 {
         System.out.println("오리가 둥둥 떠다닙니다.");
     }
 }
-
 class 오리 {
     날개아이템 a날개 = new 날개();
     발아이템 a발 = new 발();
