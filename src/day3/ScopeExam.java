@@ -5,19 +5,19 @@ public class ScopeExam {
         // 문제 : 자동차가 3번 달리게 해주세요.
         // 출력 : 자동차가 달립니다.
         // v1. 1개의 자동차가 3번 달리게 해주세요.
-        practice.Car carV1 = new practice.Car();
-        for (int i = 0; i < 3; i++) {
-            carV1.run();
-        }
-
-        // v2. 3개의 자동차가 1번씩 달리게 해주세요.
-        practice.Car carV2_1 = new practice.Car();
-        practice.Car carV2_2 = new practice.Car();
-        practice.Car carV2_3 = new practice.Car();
-
-        carV2_1.run();
-        carV2_2.run();
-        carV2_3.run();
+//        practice.Car carV1 = new practice.Car();
+//        for (int i = 0; i < 3; i++) {
+//            carV1.run();
+//        }
+//
+//        // v2. 3개의 자동차가 1번씩 달리게 해주세요.
+//        practice.Car carV2_1 = new practice.Car();
+//        practice.Car carV2_2 = new practice.Car();
+//        practice.Car carV2_3 = new practice.Car();
+//
+//        carV2_1.run();
+//        carV2_2.run();
+//        carV2_3.run();
 
         // 1. 자동차가 자신의 최고속력으로 달리게 해주세요.
         // 출력: 자동차가 최대속력 220km로 달립니다.

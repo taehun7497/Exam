@@ -132,19 +132,7 @@ public class LoopExam {
 
     /*
     public static void main(String[] args) {
-        int y = 3; //크기 조절
 
-        for (int i = 0; i < y; i++) {
-            // 공백 출력
-            for (int j = 0; j < y - i - 1; j++) {
-                System.out.print(" ");
-            }
-            // 별표 출력
-            for (int k = 0; k < 2 * i + 1; k++) {
-                System.out.print("*");
-            }
-            // 다음 줄로 이동
-            System.out.println();
         }
     }
     */

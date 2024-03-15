@@ -10,10 +10,8 @@ public class AccountExam {
         System.out.println();
 
         int money = a1.withdraw(1400);
-        //System.out.println(money); // 1400
 
         int remainder = a1.getRemainder();
-        //System.out.println(remainder); // 4200
 
         Account a2 = new Account();// 영희 계좌
         a2.deposit(1000);
